@@ -4,6 +4,8 @@ import java.util.Arrays;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+
+// This is the brute force approach to generate all sub arrays
 public class Main {
     public static void main(String[] args) {
   int arr[] ={11,-5,5,6};
